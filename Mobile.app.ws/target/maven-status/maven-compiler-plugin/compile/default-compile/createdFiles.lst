@@ -1,0 +1,10 @@
+com\appsdevoloperblog\app\ws\io\entity\UserEntity.class
+com\appsdevoloperblog\app\ws\Test.class
+com\appsdevoloperblog\app\ws\ui\model\request\UserDetailsRequestModel.class
+com\appsdevoloperblog\app\ws\ui\controller\UserController.class
+com\appsdevoloperblog\app\ws\shared\Dto\UserDto.class
+com\appsdevoloperblog\app\ws\service\Userservice.class
+com\appsdevoloperblog\app\ws\UserRepository.class
+com\appsdevoloperblog\app\ws\ui\model\response\UserRest.class
+com\appsdevoloperblog\app\ws\Application.class
+com\appsdevoloperblog\app\ws\service\impl\Userserviceimpl.class
